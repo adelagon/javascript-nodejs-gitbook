@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-qe-gitbook",
+  "version": "0.0.1",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-exercises": "^3.0.0",
+    "gitbook-plugin-runkit": "0.0.1"
+  },
+  "description": "A gitbook javascript/nodejs Programming Foundation Training",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "postinstall": "node_modules/gitbook-cli/bin/gitbook.js install",
+    "start": "node_modules/gitbook-cli/bin/gitbook.js serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:adelagon/javascript-nodejs-gitbook.git"
+  },
+  "keywords": [
+    "training",
+    "node.js",
+    "qe"
+  ],
+  "author": "Alvin Delagon",
+  "license": "ISC"
+}

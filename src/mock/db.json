@@ -1,0 +1,74 @@
+{
+    "authors": [
+        {
+            "id": 1,
+            "first_name": "Mark", 
+            "last_name": "Twain"
+        },
+        {
+            "id": 2,
+            "first_name": "Leo", 
+            "last_name": "Tolstoy"
+        },
+        {
+            "id": 3,
+            "first_name": "Charles",
+            "last_name": "Dickens"
+        },
+        {
+            "id": 4,
+            "first_name": "Jane",
+            "last_name": "Austen"
+        },
+        {
+            "id": 5,
+            "first_name": "F. Scott",
+            "last_name": "Fitzgerald"
+        }
+    ],
+
+    "books": [
+        {
+            "id": 1,
+            "title": "The Adventures of Tom Sawyer",
+            "author_id": 1,
+            "copyright": 1876
+        },
+        {
+            "id": 2,
+            "title": "Adventures of Hucklyberry Finn",
+            "author_id": 1,
+            "copyright": 1884
+        },
+        {
+            "id": 3,
+            "title": "War and Peace",
+            "author_id": 2,
+            "copyright": 1869
+        },
+        {
+            "id": 4,
+            "title": "A Christmas Carol",
+            "author_id": 3,
+            "copyright": 1843
+        },
+        {
+            "id": 5,
+            "title": "A Tale of Two Cities",
+            "author_id": 3,
+            "copyright": 1859
+        },
+        {
+            "id": 6,
+            "title": "Sense and Sensibility",
+            "author_id": 4,
+            "copyright": 1811
+        },
+        {
+            "id": 7,
+            "title": "The Great Gatsby",
+            "author_id": 5,
+            "copyright": 1925
+        }
+    ]
+}

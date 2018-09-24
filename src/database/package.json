@@ -1,0 +1,14 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "database usage snippets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alvin Delagon",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^1.6.1"
+  }
+}

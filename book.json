@@ -1,0 +1,12 @@
+{
+  "gitbook": "3.2.3",
+  "plugins": [
+    "exercises",
+    "runkit"
+  ],
+  "pluginsConfig": {
+    "fontsettings": {
+        "theme": "night"
+    }
+  }
+}

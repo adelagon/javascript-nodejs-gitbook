@@ -1,0 +1,16 @@
+{
+    "db": {
+        "host": "localhost",
+        "dialect": "mysql",
+        "database": "training",
+        "username": "dbuser",
+        "password": "p455w0rd_",
+
+        "pool": {
+            "max": 5,
+            "min": 0,
+            "acquire": 30000,
+            "idle": 10000
+        }
+    }
+}
